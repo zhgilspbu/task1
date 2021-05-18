@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621279638 source:c:\users\user\documents\tasks\task1\main.cpp
+	<iostream>
+	"queue.h"
+
+1621278484 c:\users\user\documents\tasks\task1\queue.h
+
